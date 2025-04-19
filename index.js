@@ -33,5 +33,4 @@ app.listen(process.env.PORT || 3000, () => {
   console.log('Web server running');
 });
 
-require('dotenv').config();
-client.login(process.env.TOKEN);
+client.login("MTM2MzIwNzQxMzgzMzkyODg4NA.GfJvR_.DEIsFKVTetgp5zIMILz9tq-frNKCDO8Cm5WneU;
